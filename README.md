@@ -2,9 +2,9 @@
 This is a list of people i stumbled over while i got familiar with both frontend- and backend javascript.
 This list is at an really early state - so please help to extend it :)
 
-T -> Twitter
-W -> Website
-G -> Github
+* T -> Twitter
+* W -> Website 
+* G -> Github
 
 ## NodeJS - Community
 * Isaac Z. Schlueter
