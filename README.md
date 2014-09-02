@@ -25,6 +25,8 @@ This list is at an really early state - so please help to extend it :)
     * [T](https://twitter.com/mikeal), [G](https://github.com/mikeal), [W](http://www.futurealoof.com/)
 * Max Ogden
     * [T](https://twitter.com/maxogden), [G](https://github.com/maxogden), [W](http://maxogden.com/)
+* Dominic Tarr
+    * [T](https://twitter.com/dominictarr), [G](https://github.com/dominictarr), [W](http://dominictarr.com/)
 
 ## AngularJS
 
