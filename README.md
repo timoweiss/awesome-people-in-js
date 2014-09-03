@@ -8,11 +8,11 @@ This list is at an really early state - so please help to extend it :)
 
 ## NodeJS - Community
 * Isaac Z. Schlueter
-    * [T](https://twitter.com/izs), [G](https://github.com/isaacs), [W](http://blog.izs.me/)
+    * <a href="https://twitter.com/izs"><img width="20px" src="Twitter_logo_blue.png"></a>, [G](https://github.com/isaacs), [W](http://blog.izs.me/)
 * Ben Noordhuis
     * [G](https://github.com/bnoordhuis)
 * Eran Hammer
-    * [T](https://twitter.com/eranhammer), [G](https://github.com/hueniverse), [W](http://hueniverse.com/)
+    * <a href="https://twitter.com/eranhammer"><img width="20px" src="Twitter_logo_blue.png"></a>, [G](https://github.com/hueniverse), [W](http://hueniverse.com/)
 * Trevor Norris
     * [T](https://twitter.com/trevnorris), [G](https://github.com/trevnorris), [W](http://blog.trevnorris.com/)
 * Timothy J Fontaine
