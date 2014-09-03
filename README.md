@@ -14,7 +14,7 @@ This list is at an really early state - so please help to extend it :)
 * Eran Hammer
     * <a href="https://twitter.com/eranhammer"><img width="20px" src="Twitter_logo_blue.png"></a>, [G](https://github.com/hueniverse), [W](http://hueniverse.com/)
 * Trevor Norris
-    * [![](Twitter_logo_blue.png width=20)](https://twitter.com/trevnorris), [G](https://github.com/trevnorris), [W](http://blog.trevnorris.com/)
+    * <a href="https://twitter.com/trevnorris"><img width="20px" src="Twitter_logo_blue.png"></a>, [G](https://github.com/trevnorris), [W](http://blog.trevnorris.com/)
 * Timothy J Fontaine
     * [T](https://twitter.com/tjfontaine), [G](https://github.com/tjfontaine), [W](http://atxconsulting.com/)
 * Simon Boudrias
