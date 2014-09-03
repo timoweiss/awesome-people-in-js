@@ -70,11 +70,3 @@ This list is at an really early state - so please help to extend it :)
     * [T](https://twitter.com/addyosmani), [G](https://github.com/addyosmani), [W](http://addyosmani.com/)
 * Paul Irish
     * [T](https://twitter.com/paul_irish), [G](https://github.com/paulirish), [W](http://paulirish.com/)
-
-
-
-
-
-
-
-
