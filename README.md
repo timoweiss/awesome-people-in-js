@@ -39,6 +39,8 @@ This list is at an really early state - so please help to extend it :)
     * [T](https://twitter.com/passy), [G](https://github.com/passy), [W](http://passy.me/)
 * Ben Alman
     * [T](https://twitter.com/cowboy), [G](https://github.com/cowboy), [W](http://benalman.com)
+* Guillermo Rauch
+    * [T](https://twitter.com/rauchg), [G](https://github.com/guille), [W](http://www.devthought.com/)
 
 ## AngularJS
 
