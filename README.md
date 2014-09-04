@@ -106,4 +106,3 @@ This list is at an really early state - so please help to extend it :)
 ## Chrome
 * Yoav Weiss
     * [![twitter](twitter.png)](https://twitter.com/yoavweiss) [![github](github.png)](https://github.com/yoavweiss) [![website](website.png)](http://blog.yoav.ws/)
->>>>>>> dc900ba6201686ac5fa652f30c4a5fa636210b94
