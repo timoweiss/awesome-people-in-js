@@ -83,7 +83,9 @@ This list is at an really early state - so please help to extend it :)
 * Ricardo Cabello
     * [![twitter](twitter.png)](https://twitter.com/mrdoob) [![github](github.png)](https://github.com/mrdoob) [![website](website.png)](http://mrdoob.com/)
 * Miller Medeiros
-    * [![twitter](twitter.png)](https://github.com/millermedeiros) [![github](github.png)](https://github.com/millermedeiros) [![website](website.png)](http://www.millermedeiros.com/)
+    * [![twitter](twitter.png)](https://twitter.com/millermedeiros) [![github](github.png)](https://github.com/millermedeiros) [![website](website.png)](http://www.millermedeiros.com/)
+* Elijah Manor
+    * [![twitter](twitter.png)](https://twitter.com/elijahmanor) [![github](github.png)](https://github.com/elijahmanor) [![website](website.png)](http://www.elijahmanor.com/)
 
 ## CSS
 * Chris Coyier
