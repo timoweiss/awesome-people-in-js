@@ -37,6 +37,8 @@ This list is at an really early state - so please help to extend it :)
     * [![twitter](twitter.png)](https://twitter.com/cowboy), [![github](github.png)](https://github.com/cowboy), [![website](website.png)](http://benalman.com)
 * Guillermo Rauch
     * [![twitter](twitter.png)](https://twitter.com/rauchg), [![github](github.png)](https://github.com/guille), [![website](website.png)](http://www.devthought.com/)
+* Domenic Denicola
+    * [![twitter](twitter.png)](https://twitter.com/domenic), [![github](github.png)](https://github.com/domenic), [![website](website.png)](http://domenicdenicola.com/)
 
 ## AngularJS
 
