@@ -39,6 +39,8 @@ This list is at an really early state - so please help to extend it :)
     * [![twitter](twitter.png)](https://twitter.com/rauchg) [![github](github.png)](https://github.com/guille) [![website](website.png)](http://www.devthought.com/)
 * Domenic Denicola
     * [![twitter](twitter.png)](https://twitter.com/domenic) [![github](github.png)](https://github.com/domenic) [![website](website.png)](http://domenicdenicola.com/)
+* Mirco Zeiss
+    * [![twitter](twitter.png)](https://twitter.com/zemirco) [![github](github.png)](https://github.com/zemirco) [![website](website.png)](http://www.mircozeiss.com/)
 
 ## AngularJS
 
@@ -50,6 +52,7 @@ This list is at an really early state - so please help to extend it :)
     * [![twitter](twitter.png)](https://twitter.com/toddmotto) [![github](github.png)](https://github.com/toddmotto) [![website](website.png)](http://toddmotto.com/)
 * Pascal Precht
     * [![twitter](twitter.png)](https://twitter.com/PascalPrecht) [![github](github.png)](https://github.com/PascalPrecht) [![website](website.png)](http://pascalprecht.github.io/)
+
 
 
 ## Javascript
