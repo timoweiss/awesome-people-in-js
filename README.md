@@ -41,6 +41,8 @@ This list is at an really early state - so please help to extend it :)
     * [![twitter](twitter.png)](https://twitter.com/domenic) [![github](github.png)](https://github.com/domenic) [![website](website.png)](http://domenicdenicola.com/)
 * Mirco Zeiss
     * [![twitter](twitter.png)](https://twitter.com/zemirco) [![github](github.png)](https://github.com/zemirco) [![website](website.png)](http://www.mircozeiss.com/)
+* Laurie Voss
+    * [![twitter](twitter.png)](https://twitter.com/seldo) [![github](github.png)](https://github.com/seldo) [![website](website.png)](http://seldo.com/)
 
 ## AngularJS
 
