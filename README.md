@@ -80,6 +80,12 @@ This list is at an really early state - so please help to extend it :)
     * [![twitter](twitter.png)](https://twitter.com/CrockfordFacts) [![github](github.png)](https://github.com/douglascrockford) [![website](website.png)](http://www.crockford.com/)
 * Ricardo Cabello
     * [![twitter](twitter.png)](https://twitter.com/mrdoob) [![github](github.png)](https://github.com/mrdoob) [![website](website.png)](http://mrdoob.com/)
+* Miller Medeiros
+    * [![twitter](twitter.png)](https://github.com/millermedeiros) [![github](github.png)](https://github.com/millermedeiros) [![website](website.png)](http://www.millermedeiros.com/)
+
+## CSS
+* Chris Coyier
+    * [![twitter](twitter.png)](https://twitter.com/chriscoyier) [![github](github.png)](https://github.com/chriscoyier/) [![website](website.png)](http://chriscoyier.net/)
 
 ## Web
 
@@ -93,6 +99,8 @@ This list is at an really early state - so please help to extend it :)
     * [![twitter](twitter.png)](https://twitter.com/klick_ass) [![github](github.png)](https://github.com/klickass) [![website](website.png)](http://klick-ass.com/)
 * David Walsh
     * [![twitter](twitter.png)](https://twitter.com/davidwalshblog) [![github](github.png)](https://github.com/darkwing) [![website](website.png)](http://davidwalsh.name/)
+* Zeno Rocha
+    * [![twitter](twitter.png)](https://twitter.com/zenorocha) [![github](github.png)](https://github.com/zenorocha) [![website](website.png)](http://zenorocha.com/)
 
 ## Cordova/Phonegap/Mobile
 * Holly Schinsky
