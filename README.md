@@ -53,7 +53,8 @@ This list is at an really early state - so please help to extend it :)
 
 
 ## Javascript
-
+* Brendan Eich
+    * [![twitter](twitter.png)](https://twitter.com/BrendanEich), [![github](github.png)](https://github.com/BrendanEich), [![website](website.png)](https://brendaneich.com/)
 * Kris Kowal
     * [![twitter](twitter.png)](https://twitter.com/kriskowal), [![github](github.png)](https://github.com/kriskowal), [![website](website.png)](http://about.me/kriskowal)
 * Burke Holland
@@ -70,3 +71,9 @@ This list is at an really early state - so please help to extend it :)
     * [![twitter](twitter.png)](https://twitter.com/addyosmani), [![github](github.png)](https://github.com/addyosmani), [![website](website.png)](http://addyosmani.com/)
 * Paul Irish
     * [![twitter](twitter.png)](https://twitter.com/paul_irish), [![github](github.png)](https://github.com/paulirish), [![website](website.png)](http://paulirish.com/)
+* Nicholas C. Zakas
+    * [![twitter](twitter.png)](https://twitter.com/slicknet), [![github](github.png)](https://github.com/nzakas), [![website](website.png)](http://www.nczonline.net/)
+* Douglas Crockford
+    * [![twitter](twitter.png)](https://twitter.com/CrockfordFacts), [![github](github.png)](https://github.com/douglascrockford), [![website](website.png)](http://www.crockford.com/)
+* Ricardo Cabello
+    * [![twitter](twitter.png)](https://twitter.com/mrdoob), [![github](github.png)](https://github.com/mrdoob), [![website](website.png)](http://mrdoob.com/)
