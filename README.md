@@ -77,8 +77,6 @@ This list is at an really early state - so please help to extend it :)
     * [![twitter](twitter.png)](https://twitter.com/CrockfordFacts) [![github](github.png)](https://github.com/douglascrockford) [![website](website.png)](http://www.crockford.com/)
 * Ricardo Cabello
     * [![twitter](twitter.png)](https://twitter.com/mrdoob) [![github](github.png)](https://github.com/mrdoob) [![website](website.png)](http://mrdoob.com/)
-<<<<<<< HEAD
-=======
 
 ## Web
 
