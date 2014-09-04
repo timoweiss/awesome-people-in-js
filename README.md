@@ -77,3 +77,33 @@ This list is at an really early state - so please help to extend it :)
     * [![twitter](twitter.png)](https://twitter.com/CrockfordFacts) [![github](github.png)](https://github.com/douglascrockford) [![website](website.png)](http://www.crockford.com/)
 * Ricardo Cabello
     * [![twitter](twitter.png)](https://twitter.com/mrdoob) [![github](github.png)](https://github.com/mrdoob) [![website](website.png)](http://mrdoob.com/)
+<<<<<<< HEAD
+=======
+
+## Web
+
+* Christian Heilmann
+    * [![twitter](twitter.png)](https://twitter.com/codepo8) [![github](github.png)](https://github.com/codepo8) [![website](website.png)](http://christianheilmann.com/)
+* Anselm Hannemann
+    * [![twitter](twitter.png)](https://twitter.com/helloanselm) [![github](github.png)](https://github.com/anselmh/) [![website](website.png)](http://helloanselm.com/)
+* Christian Schaefer
+    * [![twitter](twitter.png)](https://twitter.com/derSchepp) [![github](github.png)](https://github.com/Schepp) [![website](website.png)](http://workingdraft.de/)
+* Andre Jay Meissner
+    * [![twitter](twitter.png)](https://twitter.com/klick_ass) [![github](github.png)](https://github.com/klickass) [![website](website.png)](http://klick-ass.com/)
+* David Walsh
+    * [![twitter](twitter.png)](https://twitter.com/davidwalshblog) [![github](github.png)](https://github.com/darkwing) [![website](website.png)](http://davidwalsh.name/)
+
+## Cordova/Phonegap/Mobile
+* Holly Schinsky
+    * [![twitter](twitter.png)](https://twitter.com/devgirlFL) [![github](github.png)](https://github.com/hollyschinsky) [![website](website.png)](http://devgirl.org/)
+* Brian Rinaldi
+    * [![twitter](twitter.png)](https://twitter.com/remotesynth) [![github](github.png)](https://github.com/remotesynth) [![website](website.png)](http://modernweb.com/)
+* Brian LeRoux
+    * [![twitter](twitter.png)](https://twitter.com/brianleroux) [![github](github.png)](https://github.com/brianleroux) [![website](website.png)](http://brian.io/)
+* Raymond Camden
+    * [![twitter](twitter.png)](https://twitter.com/raymondcamden) [![github](github.png)](https://github.com/cfjedimaster) [![website](website.png)](http://www.raymondcamden.com/)
+
+## Chrome
+* Yoav Weiss
+    * [![twitter](twitter.png)](https://twitter.com/yoavweiss) [![github](github.png)](https://github.com/yoavweiss) [![website](website.png)](http://blog.yoav.ws/)
+>>>>>>> dc900ba6201686ac5fa652f30c4a5fa636210b94
