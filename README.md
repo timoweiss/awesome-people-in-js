@@ -119,3 +119,19 @@ This list is at an really early state - so please help to extend it :)
 ## Chrome
 * Yoav Weiss
     * [![twitter](twitter.png)](https://twitter.com/yoavweiss) [![github](github.png)](https://github.com/yoavweiss) [![website](website.png)](http://blog.yoav.ws/)
+
+## [Brackets](https://github.com/adobe/brackets)
+* Jason San Jose
+    * [![twitter](twitter.png)](https://twitter.com/jasonsanjose) [![github](github.png)](https://github.com/jasonsanjose) [![website](website.png)](http://devgirl.org/)
+* Narciso Jaramillo
+    * [![twitter](twitter.png)](https://twitter.com/notwebsafe) [![github](github.png)](https://github.com/njx) [![website](website.png)](http://www.rictus.com/)
+* Randy Edmunds
+    * [![twitter](twitter.png)](https://twitter.com/randyedmunds) [![github](github.png)](https://github.com/redmunds)
+* Peter Flynn
+    * [![twitter](twitter.png)](https://twitter.com/knownissues) [![github](github.png)](https://github.com/peterflynn)
+* Ingo Richter
+    * [![twitter](twitter.png)](https://twitter.com/ingorichter) [![github](github.png)](https://github.com/ingorichter) [![website](website.png)](http://ingorichter.blogspot.de/)
+* Kevin Dangoor
+    * [![twitter](twitter.png)](https://twitter.com/dangoor) [![github](github.png)](https://github.com/dangoor) [![website](website.png)](http://www.blueskyonmars.com/)
+* Jeff Booher
+    * [![twitter](twitter.png)](https://twitter.com/JeffryBooher) [![github](github.png)](https://github.com/JeffryBooher)
