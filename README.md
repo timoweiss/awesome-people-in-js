@@ -90,6 +90,8 @@ This list is at an really early state - so please help to extend it :)
 ## CSS
 * Chris Coyier
     * [![twitter](twitter.png)](https://twitter.com/chriscoyier) [![github](github.png)](https://github.com/chriscoyier/) [![website](website.png)](http://chriscoyier.net/)
+* Lea Verou
+    * [![twitter](twitter.png)](https://twitter.com/leaverou) [![github](github.png)](https://github.com/leaverou/) [![website](website.png)](http://lea.verou.me/)
 
 ## Web
 
