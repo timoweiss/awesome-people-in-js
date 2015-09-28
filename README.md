@@ -92,6 +92,8 @@ This list is at an really early state - so please help to extend it :)
     * [![twitter](twitter.png)](https://twitter.com/chriscoyier) [![github](github.png)](https://github.com/chriscoyier/) [![website](website.png)](http://chriscoyier.net/)
 * Lea Verou
     * [![twitter](twitter.png)](https://twitter.com/leaverou) [![github](github.png)](https://github.com/leaverou/) [![website](website.png)](http://lea.verou.me/)
+* Sara Soueidan
+  * [![twitter](twitter.png)](https://twitter.com/SaraSoueidan) [![github](github.png)](https://github.com/SaraSoueidan) [![website](website.png)](http://sarasoueidan.com/)
 
 ## Web
 
