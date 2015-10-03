@@ -54,6 +54,8 @@ This list is at an really early state - so please help to extend it :)
     * [![twitter](twitter.png)](https://twitter.com/toddmotto) [![github](github.png)](https://github.com/toddmotto) [![website](website.png)](http://toddmotto.com/)
 * Pascal Precht
     * [![twitter](twitter.png)](https://twitter.com/PascalPrecht) [![github](github.png)](https://github.com/PascalPrecht) [![website](website.png)](http://pascalprecht.github.io/)
+* John Papa
+   * [![twitter](twitter.png)](https://twitter.com/John_Papa) [![github](github.png)](https://github.com/johnpapa) [![website](website.png)](http://johnpapa.net/)
 
 
 
