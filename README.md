@@ -46,6 +46,10 @@ This list is at an really early state - so please help to extend it :)
 
 ## AngularJS
 
+* Misko Hevery (the father of AngularJs)
+    * [![twitter](twitter.png)](https://twitter.com/mhevery) [![github](github.png)](https://github.com/mhevery) [![website](website.png)](http://misko.hevery.com/)
+* Brad Green
+    * [![twitter](twitter.png)](https://twitter.com/bradlygreen) [![github](github.png)](https://github.com/bradlygreen)
 * Robin Böhm
     * [![twitter](twitter.png)](https://twitter.com/roobijn) [![github](github.png)](https://github.com/robinboehm) [![website](website.png)](http://angularjs.de/)
 * Brian Ford
