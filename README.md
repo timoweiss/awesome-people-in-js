@@ -1,4 +1,4 @@
-# People to Follow
+# Awesome People in JS
 This is a list of people i stumbled over while i got familiar with both frontend- and backend javascript.
 This list is at an really early state - so please help to extend it :)
 
