@@ -2,6 +2,16 @@
 This is a list of people i stumbled over while i got familiar with both frontend- and backend javascript.
 This list is at an really early state - so please help to extend it :)
 
+# Index
+- [NodeJS - Community](#nodejs---community)
+- [AngularJS](#angularjs)
+- [Javascript](#javascript)
+- [CSS](#css)
+- [Web](#web)
+- [Cordova/Phonegap/Mobile](#cordovaphonegapmobile)
+- [Chrome](#chrome)
+- [Brackets](#brackets)
+
 ## NodeJS - Community
 * Isaac Z. Schlueter
     * [![twitter](twitter.png)](https://twitter.com/izs) [![github](github.png)](https://github.com/isaacs) [![website](website.png)](http://blog.izs.me/)
