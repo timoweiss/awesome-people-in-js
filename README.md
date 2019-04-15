@@ -92,6 +92,10 @@ This list is at an really early state - so please help to extend it :)
     * [![twitter](twitter.png)](https://twitter.com/addyosmani) [![github](github.png)](https://github.com/addyosmani) [![website](website.png)](http://addyosmani.com/)
 * Paul Irish
     * [![twitter](twitter.png)](https://twitter.com/paul_irish) [![github](github.png)](https://github.com/paulirish) [![website](website.png)](http://paulirish.com/)
+* Eric Elliott
+    * [![twitter](twitter.png)](https://twitter.com/_ericelliott) [![github](github.png)](https://github.com/ericelliott) [![website](website.png)](https://ericelliottjs.com/)
+* Dan Abramov
+  * [![twitter](twitter.png)](https://twitter.com/dan_abramov) [![github](github.png)](https://github.com/gaearon)
 * Nicholas C. Zakas
     * [![twitter](twitter.png)](https://twitter.com/slicknet) [![github](github.png)](https://github.com/nzakas) [![website](website.png)](http://www.nczonline.net/)
 * Douglas Crockford
@@ -102,6 +106,8 @@ This list is at an really early state - so please help to extend it :)
     * [![twitter](twitter.png)](https://twitter.com/millermedeiros) [![github](github.png)](https://github.com/millermedeiros) [![website](website.png)](http://www.millermedeiros.com/)
 * Elijah Manor
     * [![twitter](twitter.png)](https://twitter.com/elijahmanor) [![github](github.png)](https://github.com/elijahmanor) [![website](website.png)](http://www.elijahmanor.com/)
+* Vinicius Dacal
+    * [![twitter](twitter.png)](https://twitter.com/vinicius_dacal) [![github](github.png)](https://github.com/viniciusdacal) [![website](website.png)](http://www.viniciusdacal.com/)
 
 ## CSS
 * Chris Coyier
@@ -109,7 +115,11 @@ This list is at an really early state - so please help to extend it :)
 * Lea Verou
     * [![twitter](twitter.png)](https://twitter.com/leaverou) [![github](github.png)](https://github.com/leaverou/) [![website](website.png)](http://lea.verou.me/)
 * Sara Soueidan
-  * [![twitter](twitter.png)](https://twitter.com/SaraSoueidan) [![github](github.png)](https://github.com/SaraSoueidan) [![website](website.png)](http://sarasoueidan.com/)
+   * [![twitter](twitter.png)](https://twitter.com/SaraSoueidan) [![github](github.png)](https://github.com/SaraSoueidan) [![website](website.png)](http://sarasoueidan.com/)
+* Maurício Sammi Silva (Maujor)
+   * [![twitter](twitter.png)](https://twitter.com/maujor) [![github](github.png)](https://github.com/maujor) [![website](website.png)](http://www.maujor.com/)
+* Raphael Fabeni
+   * [![twitter](twitter.png)](https://twitter.com/raphaelfabeni) [![github](github.png)](http://www.github.com/raphaelfabeni) [![website](website.png)](http://www.raphaelfabeni.com.br/)
 
 ## Web
 
